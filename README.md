@@ -8,11 +8,11 @@ O objetivo do e-Feira é entregar ao feirante uma forma de se conectar com o con
 
 ### Conteudo do APP
 
-O espaço e-Efeira apresenta um sistema de Geolocalização trazendo assim para o consumidor uma informação dos feirantes cadastrados mais próximos para que seja feito a compra sem a necessidade de locomoção até o Vendedor
+O espaço e-Efeira apresenta um sistema de Geolocalização trazendo assim para o consumidor a informação dos feirantes cadastrados mais próximos para que seja feito a compra sem a necessidade de locomoção até o Vendedor
 
 Além disso o e-Feira permite que o Cliente escolha melhor forma de pagamento para o seu bolso assim possibilitando para o vendedor mais formas de receber.
 
-Deixamos também uma área destinada ao Suporte onde se encontra um Chat para caso haja a necessidade de retirar alguma dúvida.
+Deixamos também uma área destinada ao Suporte onde se encontra um Chat para caso haja a necessidade de esclarecer alguma dúvida.
 
 Para o Feirante oferecemos também um Sistema de Inteligência que armazena os produtos mais vendidos em determinadas Regiões e mostra em um Gráfico muito agradável.
 
