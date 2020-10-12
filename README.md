@@ -56,5 +56,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <br />
  <sub><b>Silvia Carvalho</b></sub></a>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@brssilvia-42f584?style=flat-square&labelColor=42f584&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviacarvalhos/)](https://www.linkedin.com/in/silviacarvalhos/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-@brssilvia-27b6d6?style=flat-square&labelColor=27b6d6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviacarvalhos/)](https://www.linkedin.com/in/silviacarvalhos/) 
 
