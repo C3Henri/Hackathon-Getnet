@@ -51,10 +51,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [![Instagram Badge](https://img.shields.io/badge/-@Henr.iCode-42f584?style=flat-square&labelColor=42f584&logo=instagram&logoColor=white&link=https://www.instagram.com/henr.icode)](https://www.instagram.com/henr.icode) 
 
+<a href="https://www.linkedin.com/in/juliana-souza-982bb9135/">
+  <img style="border-radius: 50%;" src="https://media.discordapp.net/attachments/764946886355451925/765290176183926784/IMG-20200811-WA0067.jpg?width=313&height=469" width="100px;" alt=""/>
+  <br />
+ <sub><b>Juliana Souza</b></sub></a>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-@brssilvia-27b6d6?style=flat-square&labelColor=27b6d6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-souza-982bb9135/)](https://www.linkedin.com/in/juliana-souza-982bb9135/) 
+
 <a href="https://www.linkedin.com/in/silviacarvalhos/">
-  <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43714270?s=60&v=4" width="100px;" alt=""/>
+  <img style="border-radius: 50%;" src="https://media.discordapp.net/attachments/764946886355451925/765290176183926784/IMG-20200811-WA0067.jpg?width=313&height=469" width="100px;" alt=""/>
   <br />
  <sub><b>Silvia Carvalho</b></sub></a>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-@brssilvia-27b6d6?style=flat-square&labelColor=27b6d6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviacarvalhos/)](https://www.linkedin.com/in/silviacarvalhos/) 
+
+
 
